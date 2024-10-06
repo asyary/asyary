@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**asyary/asyary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://raw.githubusercontent.com/asyary/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/asyary/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ✨a project✨
+- 🌱 I’m currently learning ✨absolutely nothing✨
+- 👯 I’m looking to collaborate on ✨nothing✨
+- 🤔 I’m looking for help with ✨basically everything✨
+- 💬 Ask me about ✨don't, just don't✨
+- 📫 How to reach me: ✨you can't, I will reach you✨
+- 😄 Pronouns: ✨he/him✨
+- ⚡ Fun fact: ✨I'm a backend developer, what do you expect✨
