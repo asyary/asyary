@@ -10,4 +10,4 @@
 - 💬 Ask me about ✨don't, just don't✨
 - 📫 How to reach me: ✨you can't, I will reach you✨
 - 😄 Pronouns: ✨he/him✨
-- ⚡ Fun fact: ✨I'm a backend developer, what do you expect✨
+- ⚡ Fun fact: ✨I'm a backend developer and cyber security engineer, what do you expect✨
